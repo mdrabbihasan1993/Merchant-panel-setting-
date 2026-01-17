@@ -1,0 +1,7 @@
+{
+  "name": "MerchantPro - Settings Panel",
+  "description": "A professional merchant settings dashboard with business info, owner details, pickup methods, and payment configuration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
